@@ -1,0 +1,298 @@
+
+@media (min-width: 768px)
+{
+.rfow45 {
+    background: #005aab;
+    height: 239px;
+}
+h3, .h3 {
+    font-size: 24px;
+    color: red;
+}
+}
+@media (max-width: 767px) {
+    h3, .h3 {
+    font-size: 24px;
+    color: yellow;
+}
+    
+    .abtive .prtx .tit hr {
+ 
+    width: 55%;
+}   
+    
+    .paddser {
+    line-height: 3;
+}
+    
+    .omla h2 {
+    color: red;
+    padding-top: 52px;
+}
+    
+    
+  .talabat h3 {
+  
+    width: 100%;
+    margin-right: 0;
+}
+
+  .rfow45 {
+
+    height: 239px;
+}   .langg a {
+    color: #FFF;
+    float: left;
+    padding-top: 10px;
+    padding-right: 0;
+}
+.secmedai i {
+    width: 28px;
+    height: 33px;
+    background: transparent;
+    border: 1px solid #ffffff;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 14px;
+    line-height: 31px;
+    color: #ffffff;
+    cursor: pointer;
+    transition: all 0.2s ease-in;
+}
+.carousel-indicators .active {
+    width: 23px;
+    background-color: #fff;
+}
+    
+    .logo img {
+        width: 40%;
+    }
+ .secmedai {
+margin-top: 502px;
+float: left;
+    margin-left: 127px;
+}
+.Employ1 {
+    float: left;
+    color: #FFF;
+    padding-left: 0px;
+}
+.article-left-last img {
+    margin-left: 5px;
+    float: none;
+}
+    .article-left-last  {
+ text-align: center;
+}
+  
+select#sel1 {
+  
+    height: 50px;
+}    
+ .pic img {
+  width: 109%;
+    margin-right: -15px;
+}
+.motaba form.formdes input[type=text] {
+       height: 50px;
+    WIDTH: 108% !important;
+    margin-right:-10px !important;
+
+}
+
+.mapp {
+    margin-right: 0px;
+    width: 100%;
+}
+    .formaaaas .btn-primary   {
+            WIDTH: 108% !important;
+
+margin-right: -11px !important;
+    
+    
+    }
+    
+      #myNav span{
+        margin-right: 207px;
+    }
+    
+    section.hedermen {
+    background: #236e9b;
+    color: #FFF;
+        text-align: center;
+}
+    .silder11 .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    height: 290px;
+}
+    
+
+
+   .silder11 {
+    width: 108.3%;
+    /* margin-right: 0; */
+    object-fit: cover;
+}
+
+
+.slidertop .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    line-height: 1;
+    display: block;
+    width: inherit;
+    max-height: 750px;
+
+  height: 600px;
+    
+   /* width: 119%; */
+    
+    width: 150%;
+        object-fit: cover;
+}
+    
+ 
+    
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    h3, .h3 {
+    font-size: 24px;
+    color: darkgreen;
+}
+    
+    
+      .paddser {
+    line-height: 3;
+}
+  .silder11 .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    height: 290px;
+}
+.secmedai {
+    margin-top: -46px;
+    float: left;
+}
+    article.article-left-last {
+    padding-bottom: 18px;
+    height: 139px;
+}
+     .silder11 {
+    width: 103.8%;    margin-right: -15px;
+    background: #034784;
+    max-height: 290px;
+    overflow: hidden;
+    max-width: 106.2%;
+}
+    
+    .logo img {
+    width: 20%;
+    margin-right: 10px;
+}
+    .pic img {
+width: 107.4%;
+    margin-right: 0px;
+            height: auto;
+}
+    .silder11 .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    line-height: 1;
+    height: auto;
+}
+    form.formdes input[type=text] {
+ 
+    height: 50px;
+}
+ 
+    select#sel1 {
+  
+    height: 50px;
+}  
+    .motaba form.formdes input[type=text] {
+   
+    WIDTH: 108% !important;
+    margin-right:-10px !important;
+
+}
+    .formaaaas .btn-primary   {
+            WIDTH: 108% !important;
+
+margin-right: -18px !important;
+    
+    
+    }
+    
+      #myNav span{
+        margin-right: 207px;
+    }
+    
+    section.hedermen {
+    background: #236e9b;
+    color: #FFF;
+        text-align: center;
+}
+ 
+    
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+   h3, .h3 {
+    font-size: 24px;
+    color: seagreen;
+}
+    
+    .langg a {
+    color: #FFF;
+    padding-right: 0;
+}
+ .navbar-default .navbar-nav > li > a {
+    font-size: 15px;
+}
+    .navbar-default .navbar-nav > li > a {
+    font-size: 15px;
+}
+    select#sel1 {
+
+    height: 40px;
+}
+    select#sel1 {
+ 
+    height: 40px;
+}
+    
+    .rfow45 {
+    background: #005aab;
+    height: 228px;
+    overflow: hidden;
+    color: #FFF;
+}
+  
+    .article-left-last p {
+    font-size: 11px;
+    display: table-footer-group;
+}
+    .foofdrms {
+    text-align: center;
+}
+    .article-left-last h4 {
+    font-weight: bold;
+    color: #6d8297;
+    font-size: 16px;
+}
+     .rfow45 {
+
+    height: 239px;
+}  
+}
+@media (min-width: 1200px) {
+   h3, .h3 {
+    font-size: 24px;
+    color: purple;
+}
+    .foofdrms {
+    text-align: center;
+}
+    .rfow45 {
+    background: #005aab;
+    height: 240px;
+    /* overflow: hidden; */
+    color: #FFF;
+    max-height: 245px;
+    overflow: hidden;
+}
+}
+/*# sourceMappingURL=bootstrap.css.map */
+
